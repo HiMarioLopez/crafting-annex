@@ -2,7 +2,7 @@
 
 `This app isn't affiliated with or officially endorsed by Grinding Gear Games.`
 
-An open-source Path of Exile crafting emulation engine with support for step-by-step crafting guides with support for embedded crafting sandboxes.
+An open-source Path of Exile crafting emulation engine and step-by-step crafting guide platform with support for embedded crafting sandboxes.
 
 <details>
     <summary>Foreword</summary>
