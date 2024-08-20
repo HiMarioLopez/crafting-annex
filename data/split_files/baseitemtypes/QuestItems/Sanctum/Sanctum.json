@@ -1,0 +1,41 @@
+[
+    {
+        "_rid": 11244,
+        "Id": "Metadata/Items/QuestItems/Sanctum/SanctumKeyQuest",
+        "ItemClassesKey": 31,
+        "Width": 1,
+        "Height": 1,
+        "Name": "The Mortinomicon Exitio Immortalis",
+        "InheritsFrom": "Metadata/Items/QuestItems/AbstractQuestItem",
+        "DropLevel": 68,
+        "FlavourTextKey": 2474,
+        "Implicit_ModsKeys": [],
+        "SizeOnGround": 1,
+        "SoundEffect": null,
+        "TagsKeys": [
+            33,
+            1066
+        ],
+        "ModDomain": 38,
+        "SiteVisibility": 0,
+        "ItemVisualIdentity": 14299,
+        "HASH32": -864508700,
+        "VendorRecipe_AchievementItems": [],
+        "Inflection": "",
+        "Equip_AchievementItemsKey": null,
+        "IsCorrupted": false,
+        "Identify_AchievementItems": [],
+        "IdentifyMagic_AchievementItems": [],
+        "FragmentBaseItemTypesKey": null,
+        "Unknown24": false,
+        "Unknown25": null,
+        "Unknown26": null,
+        "Unknown27": false,
+        "TradeMarketCategory": null,
+        "Unmodifiable": false,
+        "Achievement": [],
+        "Unknown31": [],
+        "IgnoreQuantBonus": false,
+        "Unknown33": false
+    }
+]

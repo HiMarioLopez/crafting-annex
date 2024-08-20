@@ -1,0 +1,40 @@
+[
+    {
+        "_rid": 8291,
+        "Id": "Metadata/Items/ItemEffects/SekhemasBanner",
+        "ItemClassesKey": 40,
+        "Width": 2,
+        "Height": 2,
+        "Name": "Sekhema's Banner",
+        "InheritsFrom": "Metadata/Items/Currency/AbstractMicrotransaction",
+        "DropLevel": 1,
+        "FlavourTextKey": null,
+        "Implicit_ModsKeys": [],
+        "SizeOnGround": 1,
+        "SoundEffect": 34,
+        "TagsKeys": [
+            33
+        ],
+        "ModDomain": 38,
+        "SiteVisibility": 0,
+        "ItemVisualIdentity": 437,
+        "HASH32": 837932947,
+        "VendorRecipe_AchievementItems": [],
+        "Inflection": "",
+        "Equip_AchievementItemsKey": null,
+        "IsCorrupted": false,
+        "Identify_AchievementItems": [],
+        "IdentifyMagic_AchievementItems": [],
+        "FragmentBaseItemTypesKey": null,
+        "Unknown24": false,
+        "Unknown25": null,
+        "Unknown26": null,
+        "Unknown27": false,
+        "TradeMarketCategory": null,
+        "Unmodifiable": false,
+        "Achievement": [],
+        "Unknown31": [],
+        "IgnoreQuantBonus": false,
+        "Unknown33": false
+    }
+]

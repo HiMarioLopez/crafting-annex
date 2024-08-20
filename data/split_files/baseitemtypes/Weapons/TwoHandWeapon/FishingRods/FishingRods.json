@@ -1,0 +1,40 @@
+[
+    {
+        "_rid": 5749,
+        "Id": "Metadata/Items/Weapons/TwoHandWeapon/FishingRods/FishingRod1",
+        "ItemClassesKey": 37,
+        "Width": 1,
+        "Height": 4,
+        "Name": "Fishing Rod",
+        "InheritsFrom": "Metadata/Items/Weapons/TwoHandWeapons/FishingRods/AbstractFishingRod",
+        "DropLevel": 1,
+        "FlavourTextKey": null,
+        "Implicit_ModsKeys": [],
+        "SizeOnGround": 2,
+        "SoundEffect": null,
+        "TagsKeys": [
+            33
+        ],
+        "ModDomain": 1,
+        "SiteVisibility": 0,
+        "ItemVisualIdentity": 9706,
+        "HASH32": 1967828051,
+        "VendorRecipe_AchievementItems": [],
+        "Inflection": "",
+        "Equip_AchievementItemsKey": null,
+        "IsCorrupted": false,
+        "Identify_AchievementItems": [],
+        "IdentifyMagic_AchievementItems": [],
+        "FragmentBaseItemTypesKey": null,
+        "Unknown24": false,
+        "Unknown25": null,
+        "Unknown26": null,
+        "Unknown27": false,
+        "TradeMarketCategory": null,
+        "Unmodifiable": false,
+        "Achievement": [],
+        "Unknown31": [],
+        "IgnoreQuantBonus": false,
+        "Unknown33": false
+    }
+]
