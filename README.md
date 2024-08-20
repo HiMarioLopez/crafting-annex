@@ -22,6 +22,8 @@ _Note: These milestones are dynamic in nature. They'll change (a lot) during the
 
 1. Crafting emulator for 'basic' items (i.e. non-influenced, non-special bases (e.g. delve), non-league-specfic crafting)
 1. Crafting emulator support for 'advanced' items
+1. Crafting simulation support for calculating average attempts for single-step crafting outcomes
+1. Expand simulation to support to multi-step crafting outcomes
 1. Crafting blogs with integrated emulation (this will include support for item start states and limited crafting options (e.g. only allowed to use scours and alchemy orbs - think [Guff Betrayal crafting](https://www.poewiki.net/wiki/Guff_%22Tiny%22_Grenn#Position_/_Currency)))
 1. Integration with pricing provided by [poe.ninja](https://poe.ninja/economy/settlers/currency)
 
